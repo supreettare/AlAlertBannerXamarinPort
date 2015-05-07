@@ -1,0 +1,7 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/ALAlertBanner/ALAlertBanner.g.cs
+obj/Debug/ios/ALAlertBanner/ALSystemVersion.g.cs
+obj/Debug/ios/ALAlertBanner/ALApplicationBarHeights.g.cs
+obj/Debug/ios/ALAlertBanner/ALAlertBannerViewDelegate.g.cs
+obj/Debug/ios/ALAlertBanner/ALAlertBannerManager.g.cs
+obj/Debug/ios/ObjCRuntime/Trampolines.g.cs

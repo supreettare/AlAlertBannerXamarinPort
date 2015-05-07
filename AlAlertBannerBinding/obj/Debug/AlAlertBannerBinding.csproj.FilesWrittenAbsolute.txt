@@ -1,0 +1,5 @@
+/Users/greg/Downloads/AlAlertBannerBinding/AlAlertBannerBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/greg/Downloads/AlAlertBannerBinding/AlAlertBannerBinding/bin/Debug/AlAlertBannerBinding.dll.mdb
+/Users/greg/Downloads/AlAlertBannerBinding/AlAlertBannerBinding/bin/Debug/AlAlertBannerBinding.dll
+/Users/greg/Downloads/AlAlertBannerBinding/AlAlertBannerBinding/obj/Debug/AlAlertBannerBinding.dll
+/Users/greg/Downloads/AlAlertBannerBinding/AlAlertBannerBinding/obj/Debug/AlAlertBannerBinding.dll.mdb
